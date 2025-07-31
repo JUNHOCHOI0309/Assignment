@@ -3,3 +3,5 @@
 Update  
 0717 Assignment-html  
 0718 Assignment-CSS  
+0724 Assignment-JAVA  
+0725 Assignment-JAVA
