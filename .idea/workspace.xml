@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98044c80-c2f7-43bd-bc4e-addc34a84efb" name="변경" comment="20250725">
+    <list default="true" id="98044c80-c2f7-43bd-bc4e-addc34a84efb" name="변경" comment="20250731">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Account.executor": "Run",
     "Application.Assignment20250725_1.executor": "Run",
     "Application.Assignment20250725_10.executor": "Run",
     "Application.Assignment20250725_2.executor": "Run",
@@ -60,13 +61,16 @@
     "Application.Classroom.executor": "Run",
     "Application.Counter.executor": "Run",
     "Application.Emp.executor": "Run",
+    "Application.Member.executor": "Run",
     "Application.Movie.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Person2.executor": "Run",
     "Application.PersonMain.executor": "Run",
     "Application.Product.executor": "Run",
     "Application.Rectangle.executor": "Run",
+    "Application.Shape.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.Vehicle.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,16 +87,17 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BankAccount">
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0731.BankAccount" />
+  <component name="RunManager" selected="Application.MediaFile">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0801.Account" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0731.*" />
+          <option name="PATTERN" value="day0801.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Classroom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0731.Classroom" />
+    <configuration name="MediaFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0801.MediaFile" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0731.*" />
+          <option name="PATTERN" value="day0801.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0731.Counter" />
+    <configuration name="Member" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0801.Member" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0731.*" />
+          <option name="PATTERN" value="day0801.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0731.Movie" />
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0801.Shape" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0731.*" />
+          <option name="PATTERN" value="day0801.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0731.Student" />
+    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0801.Vehicle" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0731.*" />
+          <option name="PATTERN" value="day0801.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankAccount" />
-        <item itemvalue="Application.Classroom" />
-        <item itemvalue="Application.Movie" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.MediaFile" />
+        <item itemvalue="Application.Member" />
+        <item itemvalue="Application.Account" />
+        <item itemvalue="Application.Vehicle" />
+        <item itemvalue="Application.Shape" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +191,9 @@
       <workItem from="1753778052635" duration="294000" />
       <workItem from="1753851801082" duration="881000" />
       <workItem from="1753852697110" duration="8138000" />
-      <workItem from="1753921044934" duration="18545000" />
+      <workItem from="1753921044934" duration="18850000" />
+      <workItem from="1754105988839" duration="152000" />
+      <workItem from="1754226425485" duration="6278000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -228,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753447812650</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20250731">
+      <option name="closed" value="true" />
+      <created>1753967232479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753967232479</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +264,23 @@
     <MESSAGE value="Test" />
     <MESSAGE value="20250724" />
     <MESSAGE value="20250725" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250725" />
+    <MESSAGE value="20250731" />
+    <option name="LAST_COMMIT_MESSAGE" value="20250731" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Week2/src/day0801/Member.java</url>
+          <line>25</line>
+          <properties class="day0801.Member" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
