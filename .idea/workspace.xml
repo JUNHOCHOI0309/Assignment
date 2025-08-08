@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98044c80-c2f7-43bd-bc4e-addc34a84efb" name="변경" comment="20250805">
+    <list default="true" id="98044c80-c2f7-43bd-bc4e-addc34a84efb" name="변경" comment="20250806">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   "keyToString": {
     "Application.Account.executor": "Run",
     "Application.AnimalTest.executor": "Run",
+    "Application.ArrayList1.executor": "Run",
     "Application.Assignment20250725_1.executor": "Run",
     "Application.Assignment20250725_10.executor": "Run",
     "Application.Assignment20250725_2.executor": "Run",
@@ -78,6 +78,7 @@
     "Application.Rectangle.executor": "Run",
     "Application.Salary.executor": "Run",
     "Application.Shape.executor": "Run",
+    "Application.Stack1.executor": "Run",
     "Application.StrSpeed.executor": "Run",
     "Application.StrTrans.executor": "Run",
     "Application.Student.executor": "Run",
@@ -85,9 +86,11 @@
     "Application.Throws.executor": "Run",
     "Application.Transportation.executor": "Run",
     "Application.TryCatchFinally.executor": "Run",
+    "Application.Vector1.executor": "Run",
     "Application.Vehicle.executor": "Run",
     "Application.Wrapper.executor": "Run",
     "Application.Zoo.executor": "Run",
+    "Application.day0807.HashSet1.executor": "Run",
     "Application.tempo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -109,13 +112,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Collection">
-    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0806.Collection" />
+  <component name="RunManager" selected="Application.HashMap1">
+    <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0807.ArrayList1" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0806.*" />
+          <option name="PATTERN" value="day0807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0806.HashSet1" />
+    <configuration name="HashMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0807.HashMap1" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0806.*" />
+          <option name="PATTERN" value="day0807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrSpeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0806.StrSpeed" />
+    <configuration name="Stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0807.Stack1" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0806.*" />
+          <option name="PATTERN" value="day0807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrTrans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0806.StrTrans" />
+    <configuration name="Vector1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0807.Vector1" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0806.*" />
+          <option name="PATTERN" value="day0807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0806.Wrapper" />
+    <configuration name="day0807.HashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0807.HashSet1" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0806.*" />
+          <option name="PATTERN" value="day0807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Collection" />
-        <item itemvalue="Application.HashSet1" />
-        <item itemvalue="Application.StrTrans" />
-        <item itemvalue="Application.StrSpeed" />
-        <item itemvalue="Application.Wrapper" />
+        <item itemvalue="Application.HashMap1" />
+        <item itemvalue="Application.Stack1" />
+        <item itemvalue="Application.Vector1" />
+        <item itemvalue="Application.day0807.HashSet1" />
+        <item itemvalue="Application.ArrayList1" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +218,8 @@
       <workItem from="1754309645824" duration="9829000" />
       <workItem from="1754409051071" duration="2561000" />
       <workItem from="1754485838888" duration="3066000" />
-      <workItem from="1754529751654" duration="10095000" />
+      <workItem from="1754529751654" duration="14024000" />
+      <workItem from="1754611355056" duration="1174000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -289,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754411123724</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="20250806">
+      <option name="closed" value="true" />
+      <created>1754555545234</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754555545234</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +326,8 @@
     <MESSAGE value="20250801" />
     <MESSAGE value="20250804" />
     <MESSAGE value="20250805" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250805" />
+    <MESSAGE value="20250806" />
+    <option name="LAST_COMMIT_MESSAGE" value="20250806" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
