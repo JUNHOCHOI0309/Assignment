@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98044c80-c2f7-43bd-bc4e-addc34a84efb" name="변경" comment="20250806">
+    <list default="true" id="98044c80-c2f7-43bd-bc4e-addc34a84efb" name="변경" comment="20250807">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,77 +42,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Account.executor": "Run",
-    "Application.AnimalTest.executor": "Run",
-    "Application.ArrayList1.executor": "Run",
-    "Application.Assignment20250725_1.executor": "Run",
-    "Application.Assignment20250725_10.executor": "Run",
-    "Application.Assignment20250725_2.executor": "Run",
-    "Application.Assignment20250725_3.executor": "Run",
-    "Application.Assignment20250725_4.executor": "Run",
-    "Application.Assignment20250725_5.executor": "Run",
-    "Application.Assignment20250725_6.executor": "Run",
-    "Application.Assignment20250725_7.executor": "Run",
-    "Application.Assignment20250725_8.executor": "Run",
-    "Application.Assignment20250725_9.executor": "Run",
-    "Application.BankAccount.executor": "Run",
-    "Application.Book.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.Classroom.executor": "Run",
-    "Application.Collection.executor": "Run",
-    "Application.Counter.executor": "Run",
-    "Application.Electronic.executor": "Run",
-    "Application.Emp.executor": "Run",
-    "Application.HashSet1.executor": "Run",
-    "Application.MediaFile.executor": "Run",
-    "Application.Member.executor": "Run",
-    "Application.Movie.executor": "Run",
-    "Application.MultiException.executor": "Run",
-    "Application.NullPointer.executor": "Run",
-    "Application.Person.executor": "Run",
-    "Application.Person2.executor": "Run",
-    "Application.PersonMain.executor": "Run",
-    "Application.Product.executor": "Run",
-    "Application.Rectangle.executor": "Run",
-    "Application.Salary.executor": "Run",
-    "Application.Shape.executor": "Run",
-    "Application.Stack1.executor": "Run",
-    "Application.StrSpeed.executor": "Run",
-    "Application.StrTrans.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.TestMain.executor": "Run",
-    "Application.Throws.executor": "Run",
-    "Application.Transportation.executor": "Run",
-    "Application.TryCatchFinally.executor": "Run",
-    "Application.Vector1.executor": "Run",
-    "Application.Vehicle.executor": "Run",
-    "Application.Wrapper.executor": "Run",
-    "Application.Zoo.executor": "Run",
-    "Application.day0807.HashSet1.executor": "Run",
-    "Application.tempo.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Java",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/workspace/java/BackendTest/study",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/workspace/java/BackendTest/study/Week2/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment20250725_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Book.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classroom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Collection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Counter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Electronic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Emp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSet1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MediaFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Member.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Movie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullPointer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersonMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Salary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrSpeed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrTrans.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throws.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transportation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatchFinally.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vector1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vehicle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wrapper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.day0807.HashSet1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tempo.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Java&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/workspace/java/BackendTest/study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/workspace/java/BackendTest/study/Week2/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AIAssistantPromptsLibrary&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.HashMap1">
+}</component>
+  <component name="RunManager" selected="Application.day0807.HashSet1">
     <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day0807.ArrayList1" />
       <module name="Week2" />
@@ -180,10 +181,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day0807.HashSet1" />
         <item itemvalue="Application.HashMap1" />
         <item itemvalue="Application.Stack1" />
         <item itemvalue="Application.Vector1" />
-        <item itemvalue="Application.day0807.HashSet1" />
         <item itemvalue="Application.ArrayList1" />
       </list>
     </recent_temporary>
@@ -191,8 +192,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
       </set>
     </attachedChunks>
   </component>
@@ -219,7 +220,10 @@
       <workItem from="1754409051071" duration="2561000" />
       <workItem from="1754485838888" duration="3066000" />
       <workItem from="1754529751654" duration="14024000" />
-      <workItem from="1754611355056" duration="1174000" />
+      <workItem from="1754611355056" duration="2737000" />
+      <workItem from="1755696655346" duration="224000" />
+      <workItem from="1755752687290" duration="55000" />
+      <workItem from="1755770618118" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -301,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754555545234</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20250807">
+      <option name="closed" value="true" />
+      <created>1754612862193</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1754612862193</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +339,8 @@
     <MESSAGE value="20250804" />
     <MESSAGE value="20250805" />
     <MESSAGE value="20250806" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250806" />
+    <MESSAGE value="20250807" />
+    <option name="LAST_COMMIT_MESSAGE" value="20250807" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
